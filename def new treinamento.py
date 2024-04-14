@@ -1,0 +1,2 @@
+def pagamento(*argumentos):
+    print()
